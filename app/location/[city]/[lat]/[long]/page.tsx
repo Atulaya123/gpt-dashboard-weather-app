@@ -45,7 +45,8 @@ async function WeatherPage({ params: { city, lat, long } }: Props) {
       weatherData: dataToSend
     }),
   });
-
+  const GPTdata = await res.json();
+  const { content } = GPTdata;
 
   return (
     <div className="flex flex-col min-h-screen md:flex-row bg-[#fafafa]">
@@ -63,7 +64,7 @@ async function WeatherPage({ params: { city, lat, long } }: Props) {
           </div>
 
           <div className="m-2 mb-10">
-            <CalloutCard message="Would have displayed GPT data here if i had the plan and API key for GPT 3.5 turbo or GPT4 but in this case the response doesn't get generated" />
+            <CalloutCard message={content} />
           </div>
 
           <div className="grid grid-cols-1 xl:grid-cols-2 gap-5 m-2">

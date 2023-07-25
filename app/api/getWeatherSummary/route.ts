@@ -15,10 +15,7 @@ export async function POST(request: Request) {
     messages: [
       {
         role: "system",
-        content: `Pretend you're a weather news presenter, presenting LIVE on television. Be energetic and full of charisma. 
-        Then give a summary of todays weather only. Make it easy for the viewer to understand and know what to do to prepare for the weather conditions, such as where sunscreen if the UV is high.
-         Use the uv_index data provided to provide UV advice.Provide a joke regarding the weather.
-          Assume the data came from your team at the new office and not the user. Refer to the user as "you".`,
+        content: `Take all the weather data into consideration and make a one liner joke on todays weather `,
       },
       {
         role: "user",
