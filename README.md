@@ -8,9 +8,9 @@
 -	Leveraged the power of Server components in Next.js 13 for enhanced server-side rendering and seamless client-side interactions. Implemented dynamic page routing in Next.js 13, allowing users to access weather information for different cities effortlessly.
 
 
-
-![image](https://github.com/Atulaya123/gpt-dashboard-weather-app/assets/115982827/95f1d333-b549-4eea-ae6f-5a7561f47ae6)
-![image](https://github.com/Atulaya123/gpt-dashboard-weather-app/assets/115982827/8d59ba34-b793-4ed1-89af-af82052a36c0)
-![image](https://github.com/Atulaya123/gpt-dashboard-weather-app/assets/115982827/c5473e04-efef-4603-91f2-d0f024276067)
+![image](https://github.com/Atulaya123/gpt-dashboard-weather-app/assets/115982827/bdd037fd-5eb0-4547-9622-d362ec349558)
+![image](https://github.com/Atulaya123/gpt-dashboard-weather-app/assets/115982827/ef9ef07a-fc00-43a7-a9b0-1dc3961d851d)
+![image](https://github.com/Atulaya123/gpt-dashboard-weather-app/assets/115982827/236c227b-81f8-47d0-8a33-c010a2e7ac33)
+![image](https://github.com/Atulaya123/gpt-dashboard-weather-app/assets/115982827/84f8ac1f-244d-4850-90e9-55761d1bfe50)
 
 
